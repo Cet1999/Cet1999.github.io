@@ -6,7 +6,7 @@ permalink: /yetanotherday/
 
 
 
-##Yet Another Day
+## Yet Another Day
 
  - Genre: Interactive Storytelling Game
 
@@ -22,8 +22,6 @@ As the lead designer, I designed all the gameplay and the narrative structure of
 
 As the lead programmer, I developed major functionalities of the game with Unreal Blueprint and C++, I also constructed an in-engine pipeline for the artist team so that they can add custom interactions to their model by just tagging their model, like "inspect", "Pickip", etc.
 
-Credit:
+<img src="./img/YAD.png" alt="YetAnotherDay1" style="width:512px; height:384px;">
 
-![image](./img/YAD.png)
-
-![image](./img/YAD2.png)
+<img src="./img/YAD2.png" alt="YetAnotherDay2" style="width:512px; height:384px;">
