@@ -14,7 +14,7 @@ permalink: /shoppingsimulator/
 
  - Team Size: 8 (Team of 3 Programmers, 2 Artists, 1 Manager, 1 Writer and 1 Musician)
 
- - Role: Designer, Networking Programmer
+ - Role: Designer, Programmer
 
  - Unity
 
@@ -22,9 +22,11 @@ This is an ongoing project. Our goal is to have a split-screen multiplayer party
 
 My main responsibility for this project is to design the gameplay around the cellphone and implement them using C# (.NET). Our target platform is Windows - Android / iOS.
 
-Current Progress(2020.2.12): Cross-platform connection setup with TCP
+Current Progress:
 
-![](./img/SS3.png)
+2020.2.12: Cross-platform connection setup with TCP
+
+![](./img/SS3.jpg)
 
 ![](./img/SS.png)
 
