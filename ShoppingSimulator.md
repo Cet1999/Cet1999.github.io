@@ -24,6 +24,8 @@ My main responsibility for this project is to design the gameplay around the cel
 
 Current Progress(2020.2.12): Cross-platform connection setup with TCP
 
+![](./img/SS3.png)
+
 ![](./img/SS.png)
 
 ![](./img/SS2.png)
