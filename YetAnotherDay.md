@@ -16,7 +16,9 @@ permalink: /yetanotherday/
 
  - Unreal Engine 4
 
- - Download Link
+ - [Download on Windows](https://www.dropbox.com/s/nlok70w82nae0zj/YetAnotherDay.zip?dl=0)
+
+ - [Download on MAC](https://www.dropbox.com/sh/gdl3tfpzzqe2opc/AAAWt61IcCq0a3NCIUaRvi48a?dl=0)
 
 The game uses environmental storytelling to evoke emotional impact on players. 
 
