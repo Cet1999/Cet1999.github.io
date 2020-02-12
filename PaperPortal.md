@@ -10,7 +10,7 @@ permalink: /paperportal/
 
  - Team Size: 4
 
- - Role: Designer, Artist
+ - Role: Lead Designer, Artist
 
  - [View Our Design Document](https://www.dropbox.com/s/8zszixmjl11b2n2/PaperPortalDesignDocument.docx?dl=0)
 

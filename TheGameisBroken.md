@@ -12,7 +12,7 @@ permalink: /thegameisbroken/
 
  - Personal project
 
- - Unity Webgl
+ - Unity Webgl, Adobe Photoshop
 
  - [Playable in Browser](https://jingyu1999.itch.io/thegameisbroken)
 
