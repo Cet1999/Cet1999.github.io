@@ -6,6 +6,8 @@ permalink: /cubeadventure/
 
 ## Cube Adventure
 
+ - 2018.11
+
  - Genre: 2D Platformer, Puzzle Game
 
  - Personal project

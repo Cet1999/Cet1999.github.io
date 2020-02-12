@@ -8,6 +8,8 @@ permalink: /thegameisbroken/
 
 ## The Game is Broken
 
+ - 2020.2
+
  - Genre: Puzzle Game
 
  - Personal project

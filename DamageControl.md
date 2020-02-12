@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Damage Control
+title: DAMage Control
 permalink: /damagecontrol/
 ---
 
 
 
-## Damage Control
+## DAMage Control
+
+ - 2019.10 - 2019.11
 
  - Genre: Mobile Puzzle Game
 

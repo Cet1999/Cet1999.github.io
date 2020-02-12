@@ -8,6 +8,8 @@ permalink: /yetanotherday/
 
 ## Yet Another Day
 
+ - 2019.11 - 2019.12
+
  - Genre: Interactive Storytelling Game
 
  - Team Size: 4

@@ -6,6 +6,8 @@ permalink: /paperportal/
 
 ## Paper Portal
 
+ - 2019.10 - 2019.12
+
  - Genre: Collaborative Board Game
 
  - Team Size: 4

@@ -6,6 +6,8 @@ permalink: /nowayhome/
 
 ## No Way Home
 
+ - 2019.01
+
  - Genre: Interactive Storytelling Game
 
  - Personal project
