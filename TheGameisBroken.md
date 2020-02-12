@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yet Another Day
-permalink: /yetanotherday/
+title: The Game is Broken
+permalink: /thegameisbroken/
 ---
 
 
