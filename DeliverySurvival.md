@@ -24,6 +24,9 @@ permalink: /deliverysurvival/
 
  [Sunny Yan](https://sunnyyan991.wixsite.com/gu0za) - Designer, 2D Artist
 
+
+ ![](./img/JDQS7.png)
+
  ![](./img/JDQS2.png)
 
  ![](./img/JDQS3.png)
@@ -33,5 +36,3 @@ permalink: /deliverysurvival/
  ![](./img/JDQS5.png)
 
  ![](./img/JDQS6.png)
-
- ![](./img/JDQS7.png)
