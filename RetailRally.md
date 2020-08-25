@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ratail Rally
-permalink: /ratailrally/
+permalink: /retailrally/
 ---
 
 
