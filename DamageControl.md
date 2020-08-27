@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DAMage Control
+author: A Split-screen Party Game
 permalink: /damagecontrol/
 ---
 

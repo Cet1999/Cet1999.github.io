@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paper Portal
+author: A Split-screen Party Game
 permalink: /paperportal/
 ---
 

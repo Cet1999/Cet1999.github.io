@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pixel Art Converter
+author: A Split-screen Party Game
 permalink: /pixelartconverter/
 ---
 

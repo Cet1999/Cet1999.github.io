@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cube Adventure
+author: A Split-screen Party Game
 permalink: /cubeadventure/
 ---
 

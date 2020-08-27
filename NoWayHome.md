@@ -1,6 +1,7 @@
 ---
 layout: page
 title: No Way Home
+author: A Split-screen Party Game
 permalink: /nowayhome/
 ---
 

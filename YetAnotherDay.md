@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Yet Another Day
+author: A Split-screen Party Game
 permalink: /yetanotherday/
 ---
 

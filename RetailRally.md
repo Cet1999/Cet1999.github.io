@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ratail Rally
-hero_text: A Split-screen Party Game
+author: A Split-screen Party Game
 permalink: /retailrally/
 ---
 
