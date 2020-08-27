@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 绝递求生 (Delivery Survival)
-author: A Split-screen Party Game
 permalink: /deliverysurvival/
 ---
 

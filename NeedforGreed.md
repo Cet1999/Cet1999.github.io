@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Need for Greed
-author: A Split-screen Party Game
 permalink: /needforgreed/
 ---
 

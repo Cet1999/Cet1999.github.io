@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Nope
-author: A Split-screen Party Game
 permalink: /portfolio/
 ---
 

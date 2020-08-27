@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Game is Broken
-author: A Split-screen Party Game
 permalink: /thegameisbroken/
 ---
 
