@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Ratail Rally
+hero_text: A Split-screen Party Game
 permalink: /retailrally/
 ---
 
 
 
-## Ratail Rally (Ongoing)
 
  - 2020.1 - 2020.5
 
