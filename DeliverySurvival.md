@@ -5,31 +5,31 @@ genre: A Point and Click Adventure
 permalink: /deliverysurvival/
 ---
 
- - 2020.8 (Created under 48 hours)
+2020.8 (Created under 48 hours)
 
- - Team Size: 2
+Team Size: 2
 
- - Role: Designer, Programmer, 3D Artist
+Role: Designer, Programmer, 3D Artist
 
- - Tools Unity, Maya 3D
+Tools Unity, Maya 3D
 
- - [Gameplay Video (Chinese)](https://www.bilibili.com/video/BV1fp4y1v7zh)
+[Gameplay Video (Chinese)](https://www.bilibili.com/video/BV1fp4y1v7zh)
 
- This is the game I made during Chinese Indie Game Association Game Jam 2020 under 48 hours. The game is primarily designed as a meme about 2020 quarantine and online shopping.
+This is the game I made during Chinese Indie Game Association Game Jam 2020 under 48 hours. The game is primarily designed as a meme about 2020 quarantine and online shopping.
 
- Jingyu Zhuang - Designer, Programmer, 3D Artist
+Jingyu Zhuang - Designer, Programmer, 3D Artist
 
- [Sunny Yan](https://sunnyyan991.wixsite.com/gu0za) - Designer, 2D Artist
+[Sunny Yan](https://sunnyyan991.wixsite.com/gu0za) - Designer, 2D Artist
 
 
- ![](./img/JDQS7.png)
+![](./img/JDQS7.png)
 
- ![](./img/JDQS2.png)
+![](./img/JDQS2.png)
 
- ![](./img/JDQS3.png)
+![](./img/JDQS3.png)
 
- ![](./img/JDQS4.png)
+![](./img/JDQS4.png)
 
- ![](./img/JDQS5.png)
+![](./img/JDQS5.png)
 
- ![](./img/JDQS6.png)
+![](./img/JDQS6.png)
