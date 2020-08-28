@@ -26,4 +26,5 @@ I finally managed to complete 4 levels using 48 hours. The game received a lot o
 
 ### Sample Pictures
 
-![](./img/TGIB.png)
+
+<img src="/img/TGIB.png" alt="1" width="800"/>
