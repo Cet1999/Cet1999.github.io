@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Ratail Rally
-img: /img/RR1.png
-img2: /img/RR2.png
+img: /img/RR.png
+img2: /img/RR5.png
 genre: A Split-screen Party Game
 permalink: /retailrally/
 ---
