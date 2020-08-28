@@ -32,7 +32,7 @@ As the animator I **did all the cut sceens and animations using Unreal Level Seq
 
 ### Sample Pictures
 
-<img src="./img/YAD.png" alt="1" width="800"/>
+<img src="/img/YAD.png" alt="1" width="800"/>
 
 ![](./img/YAD.png)
 
