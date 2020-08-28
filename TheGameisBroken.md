@@ -2,6 +2,7 @@
 layout: page
 title: The Game is Broken
 genre: A Puzzle Game
+img: "./img/TGIB.png"
 permalink: /thegameisbroken/
 ---
 
@@ -24,7 +25,5 @@ This is the game I made during [Global Game Jam 2020](https://www.youtube.com/wa
 I finally managed to complete 4 levels using 48 hours. The game received a lot of possitive feedbacks as some play testers saying it was "unique and elegant". But there are definitely a lot to improve. Hopefully I will have time to further polish it in the future.
 
 ### Sample Pictures
-
-<img src="img/TGIB.png" width="400" height="400" />
 
 ![](./img/TGIB.png)
