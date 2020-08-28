@@ -1,20 +1,17 @@
 ---
 layout: page
 title: 绝递求生 (Delivery Survival)
+genre: A Point and Click Adventure
 permalink: /deliverysurvival/
 ---
 
-## 绝递求生 (Delivery Survival)
-
- - 2020.8
-
- - Genre: Point and Click Adventure
+ - 2020.8 (Created under 48 hours)
 
  - Team Size: 2
 
  - Role: Designer, Programmer, 3D Artist
 
- - Unity, Maya 3D
+ - Tools Unity, Maya 3D
 
  - [Gameplay Video (Chinese)](https://www.bilibili.com/video/BV1fp4y1v7zh)
 
