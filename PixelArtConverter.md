@@ -1,19 +1,22 @@
 ---
 layout: page
 title: Pixel Art Converter
+genre: A Python Application
 permalink: /pixelartconverter/
 ---
 
-## Pixel Art Converter
+### Project Overview & Links
 
- - Genre: Application
+This is a Personal project
 
- - Personal project
+Tools: Python
 
- - Python
+[View on Github](https://github.com/Cet1999/Pixel-Art-Converter)
 
- - [View on Github](https://github.com/Cet1999/Pixel-Art-Converter)
+### About this Project
 
 A python app to convert images to pixel art of user-inputted resolution. It uses Point Sampling algorithm.
 
- ![](./img/PAC.jpg)
+### Sample Pictures
+
+![](./img/PAC.jpg)
