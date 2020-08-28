@@ -32,6 +32,8 @@ As the animator I **did all the cut sceens and animations using Unreal Level Seq
 
 ### Sample Pictures
 
+<img src="img/drawing.jpg" alt="drawing" width="800"/>
+
 ![](./img/YAD.png)
 
 ![](./img/YAD2.png)
