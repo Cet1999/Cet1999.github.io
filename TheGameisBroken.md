@@ -3,7 +3,7 @@ layout: page
 title: The Game is Broken
 genre: A Puzzle Game
 img: /img/TGIB.png
-img2: /img2/TGIB.png
+img2: /img/TGIB2.png
 permalink: /thegameisbroken/
 ---
 
