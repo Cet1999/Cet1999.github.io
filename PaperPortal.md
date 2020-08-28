@@ -23,10 +23,10 @@ As the designer I led the team through the whole design process: Brainstorming, 
 
 ### Sample Pictures
 
-![](./img/PP.jpg)
+<img src="/img/PP.jpg" alt="1" class="center" width="800"/>
 
-![](./img/PP2.png)
+<img src="/img/PP2.png" alt="1" class="center" width="800"/>
 
-![](./img/PP3.png)
+<img src="/img/PP3.png" alt="1" class="center" width="800"/>
 
-![](./img/PP4.png)
+<img src="/img/PP4.png" alt="1" class="center" width="800"/>

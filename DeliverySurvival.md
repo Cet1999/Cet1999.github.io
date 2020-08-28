@@ -27,14 +27,14 @@ Jingyu Zhuang - Designer, Programmer, 3D Artist
 
 ### Sample Pictures
 
-![](./img/JDQS7.png)
+<img src="/img/JDQS7.jpg" alt="1" class="center" width="800"/>
 
-![](./img/JDQS2.png)
+<img src="/img/JDQS2.jpg" alt="1" class="center" width="800"/>
 
-![](./img/JDQS3.png)
+<img src="/img/JDQS3.jpg" alt="1" class="center" width="800"/>
 
-![](./img/JDQS4.png)
+<img src="/img/JDQS4.jpg" alt="1" class="center" width="800"/>
 
-![](./img/JDQS5.png)
+<img src="/img/JDQS5.jpg" alt="1" class="center" width="800"/>
 
-![](./img/JDQS6.png)
+<img src="/img/JDQS6.jpg" alt="1" class="center" width="800"/>

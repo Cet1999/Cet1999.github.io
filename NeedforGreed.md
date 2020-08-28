@@ -23,4 +23,4 @@ As the designer I led the team through the whole design process: Brainstorming, 
 
 ### Sample Pictures
 
-![](./img/NFG.jpg)
+<img src="/img/NFG.jpg" alt="1" class="center" width="800"/>

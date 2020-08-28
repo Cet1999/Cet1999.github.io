@@ -19,6 +19,6 @@ Tools: Phaser 3, Adobe Photoshop
 
 ### Sample Pictures
 
-![](./img/DC.png)
+<img src="/img/DC.png" alt="1" class="center" width="800"/>
 
-![](./img/DC2.png)
+<img src="/img/DC2.png" alt="1" class="center" width="800"/>

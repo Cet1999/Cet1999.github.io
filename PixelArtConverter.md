@@ -19,4 +19,4 @@ A python app to convert images to pixel art of user-inputted resolution. It uses
 
 ### Sample Pictures
 
-![](./img/PAC.jpg)
+<img src="/img/PAC.jpg" alt="1" class="center" width="800"/>
