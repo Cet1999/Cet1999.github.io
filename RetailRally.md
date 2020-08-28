@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ratail Rally
+img: /img/RR1.png
+img2: /img/RR2.png
 genre: A Split-screen Party Game
 permalink: /retailrally/
 ---
@@ -29,10 +31,10 @@ My main responsibility for this project is **to design the gameplay around the c
 
 ### Sample Pictures
 
-![](./img/RR2.png)
+<img src="/img/RR2.png" alt="1" class="center" width="800"/>
 
-![](./img/RR3.png)
+<img src="/img/RR3.png" alt="1" class="center" width="800"/>
 
-![](./img/RR4.png)
+<img src="/img/RR4.png" alt="1" class="center" width="800"/>
 
-![](./img/RR5.png)
+<img src="/img/RR5.png" alt="1" class="center" width="800"/>
