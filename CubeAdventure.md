@@ -5,7 +5,7 @@ genre: A 2D Platformer Puzzler
 permalink: /cubeadventure/
 ---
 
-##### Project Overview & Links
+### Project Overview & Links
 
 2018.11 (Game Jam project created under 48 hours)
 
@@ -17,10 +17,10 @@ Tools: Gamemaker Studio 2, Adobe Photoshop
 
 [Download](https://jingyu1999.itch.io/cube-adventure)
 
-##### About this Project
+### About this Project
 
 This is the game I made during i-Thrive Game Jam @ Albany 2018 under 48 hours. The game won the First Place Award and Best Design Award
 
-##### Sample Pictures
+### Sample Pictures
 
 ![](./img/CA.png)
