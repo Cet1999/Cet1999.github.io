@@ -5,7 +5,9 @@ genre: A Point and Click Adventure
 permalink: /deliverysurvival/
 ---
 
-2020.8 (Created under 48 hours)
+##### Project Overview & Links
+
+2020.8 (Game Jam project created under 48 hours)
 
 Team Size: 2
 
@@ -15,7 +17,9 @@ Tools Unity, Maya 3D
 
 [Gameplay Video (Chinese)](https://www.bilibili.com/video/BV1fp4y1v7zh)
 
-This is the game I made during Chinese Indie Game Association Game Jam 2020 under 48 hours. The game is primarily designed as a meme about 2020 quarantine and online shopping.
+##### About this Project
+
+This is the game I made during [Chinese Indie Game Association](https://www.ciga.me/) Game Jam 2020 under 48 hours. The game is primarily designed as a meme about 2020 quarantine and online shopping.
 
 Jingyu Zhuang - Designer, Programmer, 3D Artist
 
