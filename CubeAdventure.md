@@ -1,18 +1,15 @@
 ---
 layout: page
 title: Cube Adventure
+genre: A 2D Platformer Puzzler
 permalink: /cubeadventure/
 ---
 
-## Cube Adventure
-
  - 2018.11
 
- - Genre: 2D Platformer, Puzzle Game
+ - This is a personal project
 
- - Personal project
-
- - Gamemaker Studio 2, Adobe Photoshop
+ - Tools: Gamemaker Studio 2, Adobe Photoshop
 
  - [Gameplay Video](https://www.youtube.com/watch?v=RZBDLdeGWkA)
 
