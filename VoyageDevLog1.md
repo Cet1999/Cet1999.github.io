@@ -2,7 +2,7 @@
 layout: page
 title: Voyage Devlog 1 - 新手上路请多指教
 genre: Devlog
-permalink: /blogpost1/
+permalink: /VoyageDevLog1/
 ---
 
 
