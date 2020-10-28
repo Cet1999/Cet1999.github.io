@@ -24,6 +24,8 @@ permalink: /VoyageDevLog2/
 
 <img src="/img/PlantTree.gif" alt="1" class="center" width="800"/>
 
+<img src="/img/PlantFlower.gif" alt="1" class="center" width="800"/>
+
 2.完全的实时联机。玩家可以遇见世界里的朋友与陌生人，共享旅程。
 
 <img src="/img/MultiPlayer.gif" alt="1" class="center" width="800"/>
@@ -36,11 +38,19 @@ permalink: /VoyageDevLog2/
 
 4.重新编写的Shader与Post Processing逻辑，空旷黑白的世界会在玩家走过并且留下植物之后重新焕发生机，加入更多色彩。
 
+<img src="/img/ColorChange.gif" alt="1" class="center" width="800"/>
+
 5.在引导界面嵌入了完整的谷歌地图作为背景
+
+<img src="/img/GoogleMapUI.gif" alt="1" class="center" width="800"/>
 
 6.完整的UI轮盘系统搭载各种游戏功能
 
+<img src="/img/Panel.gif" alt="1" class="center" width="800"/>
+
 7.加入了类似导航系统的平面小地图
+
+<img src="/img/MiniMap.gif" alt="1" class="center" width="800"/>
 
 ## 除去【享受单人开发】这个最重要的一点之外的一点经验分享：
 
