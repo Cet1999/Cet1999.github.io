@@ -26,7 +26,11 @@ permalink: /VoyageDevLog2/
 
 2.完全的实时联机。玩家可以遇见世界里的朋友与陌生人，共享旅程。
 
+<img src="/img/MultiPlayer.gif" alt="1" class="center" width="800"/>
+
 3.账号、等级与统计系统。所有注册玩家都会有自己的账号统计数据，用自己的里程积累经验，种植更多的色彩。
+
+<img src="/img/LevelUp.gif" alt="1" class="center" width="800"/>
 
 视觉体现与UI/UX方面：
 
