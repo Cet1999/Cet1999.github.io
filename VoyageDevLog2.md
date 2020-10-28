@@ -6,6 +6,8 @@ permalink: /VoyageDevLog2/
 ---
 
 
+[Devlog 1 - 新手上路请多指教](http://jingyuzhuang.top/VoyageDevLog1/)
+
 ## 导语：新的四周
 
 立项开发四周写了第一篇Dev Log，现在离上次的Dev Log又过去了四周。这段时间的进度大概已经可以支撑起新的一篇Dev Log的内容，并且四周应该也是一个不错的周期来记录一些开发日常，正好在美国无尽的居家隔离期间除了看日历又能多一个方法，让我确切地感受到自己没有活在【土拨鼠日】。
