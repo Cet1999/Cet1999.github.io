@@ -9,7 +9,7 @@ permalink: /VoyageDevLog1/
 
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'zh-CN'}, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'zh'}, 'google_translate_element');
 }
 </script>
 
