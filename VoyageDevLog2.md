@@ -5,6 +5,13 @@ genre: Devlog
 permalink: /VoyageDevLog2/
 ---
 
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'zh-CN'}, 'google_translate_element');
+}
+</script>
 
 [Devlog 1 - 新手上路请多指教](http://jingyuzhuang.top/VoyageDevLog1/)
 
@@ -105,10 +112,6 @@ Google地图的嵌入是一个复杂的过程，多次尝试手敲代码无果�
 2.更多的社交向交互功能。下一阶段会加入的是参考[死亡搁浅](https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E6%93%B1%E6%B7%BA)社交系统的【点赞】功能，玩家之间可以相互点赞对方的创作，并且收获/给出的赞会提高玩家等级。在促进交互的同时让玩家有多一个维度的等级数值积累。
 
 3.尝试解决Google Map SDK在大陆地区的支持问题。
-
-4.研发新冠疫苗
-
-5.初步判定以上两条目标实现难度相等（淦）
 
 ## 结语
 
