@@ -32,16 +32,16 @@ Awards: Finalist of **Technical Innovation Award** at **Game Fest 2020**!
 
 ### About this Project
 
-Retail Rally is a split-screen multiplayer party game. And players can use their cellphones to connect to the game, to get their assigned shopping list and a mini map of products.
+Retail Rally is a four player couch competitive shopping game. Players race to complete their shopping list while simultaneously dealing with obstacles imposed by other players in a non-linear sandbox supermarket. Players additionally can download the corresponding Retail Rally app, and connect their personal devices to the game session in order to gain access to features such as private shopping lists, and a GPS store navigator.
 
-My main responsibility for this project is **to design the gameplay around the cellphone and implement them using C# (.NET)**. Our target platform is Windows - Android / iOS.
+As the designer and programmer of the team I was the sole developer of the Retail Rally App, I conceptualized and developed the cellphone app and build the LAN server in the PC game client, as long as the stable connection between cellphone App and PC.
 
 ### Sample Pictures
 
 <img src="/img/RR2.png" alt="1" class="center" width="800"/>
 
-<img src="/img/RR3.png" alt="1" class="center" width="800"/>
+<img src="/img/RR3.png" alt="1" class="center" width="300"/>
 
-<img src="/img/RR4.png" alt="1" class="center" width="800"/>
+<img src="/img/RR4.png" alt="1" class="center" width="300"/>
 
 <img src="/img/RR5.png" alt="1" class="center" width="800"/>
