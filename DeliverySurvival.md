@@ -17,7 +17,7 @@ Tools Unity, Maya 3D
 
 [Gameplay Video (Chinese)](https://www.bilibili.com/video/BV1fp4y1v7zh)
 
-<iframe width="100%" class="center" src="//player.bilibili.com/player.html?aid=969325845&bvid=BV1fp4y1v7zh&cid=225106873&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="800" height="450" class="center" src="//player.bilibili.com/player.html?aid=969325845&bvid=BV1fp4y1v7zh&cid=225106873&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### About this Project
 

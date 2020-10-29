@@ -19,6 +19,8 @@ Tools: Unity Webgl, Adobe Photoshop
 
 [Playable in Browser](https://jingyu1999.itch.io/thegameisbroken)
 
+<iframe frameborder="0" src="https://itch.io/embed/558175" width="800" class="center"><a href="https://jingyu1999.itch.io/thegameisbroken">The Game is Broken by Cetacean</a></iframe>
+
 ### About this Project
 
 This is the game I made during [Global Game Jam 2020](https://www.youtube.com/watch?v=8sdcq7CbPsc) under 48 hours. The theme was "Repair". During my brain storming process I decided to make the "game" itself being the object of repair (This was kinda inspired by "Baba is You" which is one of my favorite indie games of 2019). I constructed an impossible level for each puzzle, players need to modify the level layout in order to pass.
