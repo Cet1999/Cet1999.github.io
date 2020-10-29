@@ -17,9 +17,7 @@ Tools: Phaser 3, Adobe Photoshop
 
 [Gameplay Video](https://www.youtube.com/watch?v=oPe8F7txhFM&feature=youtu.be)
 
-<iframe width="800" height="450" class="center"
-src="https://www.youtube.com/embed/watch?v=oPe8F7txhFM&feature=youtu.be">
-</iframe>
+<iframe width="800" height="450" class="center" src="https://www.youtube.com/embed/oPe8F7txhFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Sample Pictures
 
