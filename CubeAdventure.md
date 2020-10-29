@@ -7,6 +7,7 @@ permalink: /cubeadventure/
 
 ### Project Overview & Links
 
+
 2018.11 (Game Jam project created under 48 hours)
 
 This is a personal project
@@ -15,7 +16,13 @@ Tools: Gamemaker Studio 2, Adobe Photoshop
 
 [Gameplay Video](https://www.youtube.com/watch?v=RZBDLdeGWkA)
 
+<iframe width="800" height="450" class="center"
+src="https://www.youtube.com/watch?v=RZBDLdeGWkA">
+</iframe>
+
 [Download](https://jingyu1999.itch.io/cube-adventure)
+
+<iframe frameborder="0" src="https://itch.io/embed/329002?border_width=0" width="800" height="450" class="center"><a href="https://jingyu1999.itch.io/cube-adventure">Cube Adventure by Cetacean</a></iframe>
 
 ### About this Project
 
