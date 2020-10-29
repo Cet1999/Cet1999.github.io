@@ -13,6 +13,8 @@ function googleTranslateElementInit() {
 }
 </script>
 
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 [Devlog 1 - 新手上路请多指教](http://jingyuzhuang.top/VoyageDevLog1/)
 
 [游戏当前版本Demo](https://jingyu1999.itch.io/voyage) 
