@@ -16,9 +16,7 @@ Tools: Gamemaker Studio 2, Adobe Photoshop
 
 [Gameplay Video](https://www.youtube.com/watch?v=RZBDLdeGWkA)
 
-<iframe width="800" height="450" class="center"
-src="https://www.youtube.com/embed/watch?v=RZBDLdeGWkA">
-</iframe>
+<iframe width="800" height="450" class="center" src="https://www.youtube.com/embed/RZBDLdeGWkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Download](https://jingyu1999.itch.io/cube-adventure)
 
