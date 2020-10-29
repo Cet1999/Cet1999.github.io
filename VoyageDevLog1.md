@@ -5,6 +5,13 @@ genre: Devlog
 permalink: /VoyageDevLog1/
 ---
 
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'zh-CN'}, 'google_translate_element');
+}
+</script>
 
 ## 导语：这是我的第一篇Devlog
 
