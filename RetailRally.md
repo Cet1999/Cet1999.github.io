@@ -21,9 +21,14 @@ Tool: Unity
 
 Awards: Finalist of **Technical Innovation Award** at **Game Fest 2020**!
 
-[Official Game Page](https://hipoot.itch.io/retail-rally)
 
 [Watch Our Trailer](https://www.youtube.com/watch?v=W1Cj8eSM-Xg)
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/W1Cj8eSM-Xg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Official Game Page](https://hipoot.itch.io/retail-rally)
+
+<iframe src="https://itch.io/embed/597634" width="800" frameborder="0"><a href="https://hipoot.itch.io/retail-rally">Retail Rally</a></iframe>
 
 ### About this Project
 

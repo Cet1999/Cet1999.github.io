@@ -23,7 +23,7 @@ Gamemaker Studio 2, Adobe Photoshop
 
 ### About this Project
 
-This is the game I made during Global Game Jam 2019 under 48 hours. The theme was "What home means to you". 
+This is the game I made during Global Game Jam 2019 **under 48 hours**, themed "What home means to you". 
  
 This game tells a story of three polar bears who lost their home because of global warming. The game is designed to warn players about the environmental issues on our planet.
 

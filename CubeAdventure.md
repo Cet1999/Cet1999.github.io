@@ -24,7 +24,7 @@ Tools: Gamemaker Studio 2, Adobe Photoshop
 
 ### About this Project
 
-This is the game I made during i-Thrive Game Jam @ Albany 2018 under 48 hours, themed 'cooperation'. The game won the **First Place Award** and **Best Design Award**
+This is the game I made during i-Thrive Game Jam @ Albany 2018 **under 48 hours**, themed 'cooperation'. The game won the **First Place Award** and **Best Design Award**
 
 ### Sample Pictures
 
