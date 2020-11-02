@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Voyage (Ongoing)
-genre: Experimental Walking Simulator
+genre: Multiplayer Open-world Sandbox Game
 img: /img/Voyage.png
 img2: /img/Voyage.png
 permalink: /voyage/
