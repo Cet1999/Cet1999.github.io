@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ratail Rally
+title: Retail Rally
 img: /img/RR.png
 img2: /img/RR5.png
 genre: A Split-screen Party Game
