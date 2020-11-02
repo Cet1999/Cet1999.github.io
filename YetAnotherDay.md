@@ -35,3 +35,9 @@ As the animator I **did all the cut sceens and animations using Unreal Level Seq
 <img src="/img/YAD.png" alt="1" width="800"/>
 
 <img src="/img/YAD2.png" alt="1" width="800"/>
+
+<img src="/img/YAD-1.gif" alt="1" width="800"/>
+
+<img src="/img/YAD-2.gif" alt="1" width="800"/>
+
+<img src="/img/YAD-3.gif" alt="1" width="800"/>
