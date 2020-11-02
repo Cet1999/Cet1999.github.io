@@ -37,4 +37,12 @@ Voyage is a virtual travel experience. It simulates the Earth with Google Map ge
 
 ### Sample Pictures
 
-<img src="/img/Voyage.png" alt="1" class="center" width="800"/>
+<img src="/img/GoogleMapUI.gif" alt="1" class="center" width="800"/>
+
+<img src="/img/PlantTree.gif" alt="1" class="center" width="800"/>
+
+<img src="/img/PlantFlower.gif" alt="1" class="center" width="800"/>
+
+<img src="/img/LevelUp.gif" alt="1" class="center" width="800"/>
+
+<img src="/img/ColorChange.gif" alt="1" class="center" width="800"/>
