@@ -5,7 +5,7 @@ genre: Document
 permalink: /VoyageDesignDoc/
 ---
 
-<center>  <h4>Design Document for:</h4><h1>Voyage </h1><h4>by Jingyu Zhuang (zhuanj2@rpi.edu)</h4></center>
+<center>  <h4>Design Document for:</h4><h1 style="font-size:50px;">Voyage </h1><h4>by Jingyu Zhuang (zhuanj2@rpi.edu)</h4></center>
 
   
 
