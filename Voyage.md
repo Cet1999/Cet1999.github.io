@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Voyage (Ongoing)
 genre: Multiplayer Open-world Sandbox Game
 img: /img/Voyage.png
