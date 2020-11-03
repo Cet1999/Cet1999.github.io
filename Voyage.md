@@ -15,11 +15,8 @@ permalink: /voyage/
 |---|---|---|---|---|
 | Jingyu Zhuang | September 14, 2020 | [Voyage](https://jingyuzhuang.top/voyage/) | <zhuanj2@rpi.edu> | [Official Page](https://jingyu1999.itch.io/voyage) |
 
-| Developer | Jingyu Zhuang |
-| Founding Date | September 14, 2020 |
-| Website | [Voyage]() |
-| Press / Business Contact | zhuanj2@rpi.edu |
-| Download Link | [Official Page](https://jingyu1999.itch.io/voyage) |
+Voyage is a virtual travel experience. It simulates the entire Earth with Google Map geo-data and present it to players based on the coordinate they choose. It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in the world forever and seen by all other players traveling to the place. The project is founded during the 2020 global COVID-19 pandemic and the goal is to give players positive energy and a sense of hope.
+
 
 2020.9 - Present
 
