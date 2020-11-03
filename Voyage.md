@@ -11,6 +11,10 @@ permalink: /voyage/
 
 ### Project Overview & Links
 
+| Developer | Founding Date | Website | Press / Business Contact | Download Link |
+|---|---|---|---|---|
+| Jingyu Zhuang | September 14, 2020 | [Voyage](https://jingyuzhuang.top/voyage/) | <zhuanj2@rpi.edu> | [Official Page](https://jingyu1999.itch.io/voyage) |
+
 | Developer | Jingyu Zhuang |
 | Founding Date | September 14, 2020 |
 | Website | [Voyage]() |
