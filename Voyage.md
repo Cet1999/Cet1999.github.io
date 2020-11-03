@@ -11,6 +11,12 @@ permalink: /voyage/
 
 ### Project Overview & Links
 
+| Developer | Jingyu Zhuang |
+| Founding Date | September 14, 2020 |
+| Website | [Voyage]() |
+| Press / Business Contact | zhuanj2@rpi.edu |
+| Download Link | [Official Page](https://jingyu1999.itch.io/voyage) |
+
 2020.9 - Present
 
 Personal project
