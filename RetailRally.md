@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Retail Rally
 img: /img/RR.png
 img2: /img/RR5.png
