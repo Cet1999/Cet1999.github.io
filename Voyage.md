@@ -16,19 +16,19 @@ permalink: /voyage/
 | Jingyu Zhuang | September 14, 2020 | [Voyage](https://jingyuzhuang.top/voyage/) | <zhuanj2@rpi.edu> | [Official Page](https://jingyu1999.itch.io/voyage) |
 |-------|-------|-------|-------|-------|
 
-<img src="/img/VoyagePromo1.png" alt="1" class="center" width="800"/>
+<img src="/img/VoyagePromo1.png" alt="1" class="center" width="400"/>
 
 <p style="text-align:center">With Google Map data, turning the entire Earth into an open world with seamless dynamic rendering</p>
 
-<img src="/img/VoyagePromo2.png" alt="1" class="center" width="800"/>
+<img src="/img/VoyagePromo2.png" alt="1" class="center" width="400"/>
 
 <p style="text-align:center">Real-time multiplayer, meet other travelers and share your journey</p>
 
-<img src="/img/VoyagePromo3.png" alt="1" class="center" width="800"/>
+<img src="/img/VoyagePromo3.png" alt="1" class="center" width="400"/>
 
 <p style="text-align:center">Make creations and everyone else will see it</p>
 
-<img src="/img/VoyagePromo4.png" alt="1" class="center" width="800"/>
+<img src="/img/VoyagePromo4.png" alt="1" class="center" width="400"/>
 
 <p style="text-align:center">Eventually light up the grey-scaled world with creations</p>
 
