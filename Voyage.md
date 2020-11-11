@@ -44,7 +44,9 @@ permalink: /voyage/
 
 ## What is Voyage?
 
-Voyage is a virtual travel experience. It simulates the entire Earth with Google Map geo-data and present it to players based on the coordinate they choose. It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in the world forever and seen by all other players traveling to the place. The project is founded during the 2020 global COVID-19 pandemic and the goal is to give players positive energy and a sense of hope.
+Voyage is a virtual travel experience. It simulates the entire Earth with Google Map geo-data and present it to players as a huge Multiplayer Sandbox Open World. 
+It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in the world forever, not only seen by all other players traveling to the place, but also lighting up the region. 
+The project is founded on September 2020 during the global pandemic and the goal is to give players positive energy and a sense of hope.
 
 
 ## Official Devlogs
