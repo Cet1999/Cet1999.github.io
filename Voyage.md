@@ -49,18 +49,10 @@ It is also a shared environment. Players get to meet each other in this game, sh
 The project is founded on September 2020 during the global pandemic and the goal is to give players positive energy and a sense of hope.
 
 
-## Official Devlogs
-
-[Devlog 1 - 新手上路请多指教](http://jingyuzhuang.top/VoyageDevLog1/)
-
-[Devlog 2 - MMO初尝试](http://jingyuzhuang.top/VoyageDevLog2/)
-
 ## Unofficial Gameplay Video
 (New Promotional Video Coming Soon)
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/FIODw0EaML8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## Sample Pictures
 
@@ -73,3 +65,10 @@ The project is founded on September 2020 during the global pandemic and the goal
 <img src="/img/LevelUp.gif" alt="1" class="center" width="800"/>
 
 <img src="/img/ColorChange.gif" alt="1" class="center" width="800"/>
+
+
+## Official Devlogs
+
+[Devlog 1 - 新手上路请多指教](http://jingyuzhuang.top/VoyageDevLog1/)
+
+[Devlog 2 - MMO初尝试](http://jingyuzhuang.top/VoyageDevLog2/)
