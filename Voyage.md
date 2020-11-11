@@ -18,19 +18,27 @@ permalink: /voyage/
 
 <iframe frameborder="0" src="https://itch.io/embed/759315" width="800"><a href="https://jingyu1999.itch.io/voyage">Voyage by Cetacean</a></iframe>
 
-<img src="/img/VoyagePromo1.png" alt="1" class="center" width="400"/>
+<div class="w3-container w3-center">
+  	<img src="/img/VoyagePromo1.png" alt="1" class="center" width="400"/>
+</div>
 
 <p style="text-align:center">With Google Map data, turning the entire Earth into an open world with seamless dynamic rendering</p>
 
-<img src="/img/VoyagePromo2.png" alt="1" class="center" width="400"/>
+<div class="w3-container w3-center">
+    <img src="/img/VoyagePromo2.png" alt="1" class="center" width="400"/>
+</div>
 
 <p style="text-align:center">Real-time multiplayer, meet other travelers and share your journey</p>
 
-<img src="/img/VoyagePromo3.png" alt="1" class="center" width="400"/>
+<div class="w3-container w3-center">
+    <img src="/img/VoyagePromo3.png" alt="1" class="center" width="400"/>
+</div>
 
 <p style="text-align:center">Make creations and everyone else will see it</p>
 
-<img src="/img/VoyagePromo4.png" alt="1" class="center" width="400"/>
+<div class="w3-container w3-center">
+    <img src="/img/VoyagePromo4.png" alt="1" class="center" width="400"/>
+</div>
 
 <p style="text-align:center">Eventually light up the grey-scaled world with creations</p>
 
