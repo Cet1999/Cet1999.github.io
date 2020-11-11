@@ -16,6 +16,8 @@ permalink: /voyage/
 | Jingyu Zhuang | September 14, 2020 | [Voyage](https://jingyuzhuang.top/voyage/) | <zhuanj2@rpi.edu> | [Official Page](https://jingyu1999.itch.io/voyage) |
 |-------|-------|-------|-------|-------|
 
+<iframe frameborder="0" src="https://itch.io/embed/759315" width="800"><a href="https://jingyu1999.itch.io/voyage">Voyage by Cetacean</a></iframe>
+
 <img src="/img/VoyagePromo1.png" alt="1" class="center" width="400"/>
 
 <p style="text-align:center">With Google Map data, turning the entire Earth into an open world with seamless dynamic rendering</p>
@@ -48,7 +50,7 @@ Voyage is a virtual travel experience. It simulates the entire Earth with Google
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/FIODw0EaML8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe frameborder="0" src="https://itch.io/embed/759315" width="800"><a href="https://jingyu1999.itch.io/voyage">Voyage by Cetacean</a></iframe>
+
 
 ## Sample Pictures
 
