@@ -5,7 +5,7 @@ genre: An interactive Plugin
 permalink: /blendemoji/
 ---
 
-### Project Overview
+## Project Overview
 
 2020.09 - 2020.11
 
@@ -21,7 +21,7 @@ Tools: Blender, Python, OpenCV
 
 Blendemoji is a Python scripted plugin for Blender which reads the user’s facial expression through Webcam and simulates it on a 3d rigged model.
 
-### Technical Overview
+## Technical Overview
 
 we are essentially extracting data from the user's face input, and we then interpret the data and apply it onto our model.
 
@@ -35,4 +35,13 @@ Haar Cascade is a machine learning object detection algorithm used to identify o
 
 And if we look at the picture on the right. Top row shows two good features. The first feature selected seems to focus on the property that the region of the eyes is often darker than the region of the nose and cheeks. The second feature selected relies on the property that the eyes are darker than the bridge of the nose. 
 
-####
+In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
+
+#### Facial Landmark API
+
+Facial Landmark API uses “**Active Appearance Models**” algorithm to match statistical models of appearance to images. 
+
+Active Appearance Models Algorithm is a method of matching statistical models of appearance to images, developed by Timothy F. Cootes, Gareth J. Edwards, and
+Christopher J. Taylor. (Their Paper)[https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/cootes-pami-01.pdf]
+
+[Documentation for the API](https://github.com/kurnianggoro/GSOC2017)
