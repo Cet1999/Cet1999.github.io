@@ -23,9 +23,17 @@ Blendemoji is a Python scripted plugin for Blender which reads the user’s faci
 
 ## Technical Overview
 
-we are essentially extracting data from the user's face input, and we then interpret the data and apply it onto our model.
+The idea is simple:
+
+Extracting data from the user's face input -> interpret the data and apply it onto the model.
+
+<div class="w3-container w3-center">
+  	<img src="/img/datainterpret.png" alt="1" class="center" width="500"/>
+</div>
 
 #### Haar Cascade
+
+I start by recognizing rectangular faces in our webcam picture.
 
 Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.
 
@@ -33,11 +41,13 @@ Haar Cascade is a machine learning object detection algorithm used to identify o
   	<img src="/img/haarcascade.png" alt="1" class="center" width="500"/>
 </div>
 
-And if we look at the picture on the right. Top row shows two good features. The first feature selected seems to focus on the property that the region of the eyes is often darker than the region of the nose and cheeks. The second feature selected relies on the property that the eyes are darker than the bridge of the nose. 
+The picture on the right demonstrate the idea. Top row shows two good features. The first feature selected seems to focus on the property that the region of the eyes is often darker than the region of the nose and cheeks. The second feature selected relies on the property that the eyes are darker than the bridge of the nose. 
 
 In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
 
 #### Facial Landmark API
+
+with my detected landmark feature. I used Facial Landmark API to further recognize different facial components.
 
 Facial Landmark API uses “**Active Appearance Models**” algorithm to match statistical models of appearance to images. 
 
@@ -45,3 +55,33 @@ Active Appearance Models Algorithm is a method of matching statistical models of
 Christopher J. Taylor. (Their Paper)[https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/cootes-pami-01.pdf]
 
 [Documentation for the API](https://github.com/kurnianggoro/GSOC2017)
+
+Now we have our data extracted, let's try to interpret data and apply it on our models.
+
+#### Perspective-n-Point
+
+My data extraction happens on a 2D plane image, the next step is to convert it into 3D space.
+
+Perspective-n-Point is the problem of estimating the pose of a calibrated camera given a set of n 3D points in the world and their corresponding 2D projections in the image. The camera pose consists of 6 degrees-of-freedom (DOF) which are made up of the rotation (roll, pitch, and yaw) and 3D translation.
+
+<div class="w3-container w3-center">
+  	<img src="/img/pnp.png" alt="1" class="center" width="500"/>
+</div>
+
+Let's break down the equation:
+
+S is the scale factor for the image point
+
+Homogeneous Image Point: the point on the 2D image (In this case it's the coordinate of user's facial component on the image)
+
+Intrinsic Camera Matrix: the intrinsic parameters of our camera (In this case it's the webcam, the physical pinhole camera). f here is the focal length, u v is the coordinate of principle points which are commonly zero. Gamma is the skew coefficient which is also commonly zero. 
+
+Homogeneous World Point: the point on the 3D model (In this case it's the coordinate of the specific bone corresponding to the facial component)
+
+And that leaves us with the matrix on the middle, the [R|T] matrix. Which can be broke down as 3D Rotation and Translation which can be applied onto the model.
+
+And... Done!
+
+<div class="w3-container w3-center">
+  	<img src="/img/blendemoji.gif" alt="1" class="center" width="500"/>
+</div>
