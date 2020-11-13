@@ -107,4 +107,4 @@ I personally enjoyed the whole process developing this project. And as a game de
   	<img src="/img/ringfitadventure.jpg" alt="1" class="center" width="500"/>
 </div>
 
-If the same design philosophy can be applied here we might create a game to excourage people working out their facial muscles as a way to prevent facial paralysis, etc.
+If the same design philosophy can be applied here, we might create a game to excourage people working out their facial muscles as a way to prevent facial paralysis, etc.
