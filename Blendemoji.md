@@ -12,16 +12,12 @@ This is a research project advised by Professor Brian A. Barsky at University of
 
 Tools: Blender, Python, OpenCV
 
-<!-- TOC -->
-
 - [Project Overview](#project-overview)
 - [Technical Overview](#technical-overview)
-        - [Haar Cascade](#haar-cascade)
-        - [Facial Landmark API](#facial-landmark-api)
-        - [Perspective-n-Point](#perspective-n-point)
+    - [Haar Cascade](#haar-cascade)
+    - [Facial Landmark API](#facial-landmark-api)
+    - [Perspective-n-Point](#perspective-n-point)
 - [What Could Go from Here](#what-could-go-from-here)
-
-<!-- /TOC -->
 
 ## Project Overview
 
