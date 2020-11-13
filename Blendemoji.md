@@ -12,6 +12,8 @@ This is a research project advised by Professor Brian A. Barsky at University of
 
 Tools: Blender, Python, OpenCV
 
+## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Technical Overview](#technical-overview)
     - [Haar Cascade](#haar-cascade)
