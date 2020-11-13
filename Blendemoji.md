@@ -78,7 +78,7 @@ Intrinsic Camera Matrix: the intrinsic parameters of our camera (In this case it
 
 Homogeneous World Point: the point on the 3D model (In this case it's the coordinate of the specific bone corresponding to the facial component)
 
-And that leaves us with the matrix on the middle, the [R|T] matrix. Which can be broke down as 3D Rotation and Translation which can be applied onto the model.
+And that leaves us with the matrix on the middle, the [R T] matrix. Which can be broke down as 3D Rotation and Translation which can be applied onto the model.
 
 And... Done!
 
