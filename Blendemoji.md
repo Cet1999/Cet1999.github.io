@@ -101,4 +101,10 @@ And... Done!
 
 ## What Could Go from Here
 
-I personally enjoyed the whole process developing this project. And as a game designer I would really love to see what would happen if we can gamify this. Because it's such a unique way of human computer interaction. And it reminds me of the game Ring Fit Adventure which takes players' body movement as input and encourage them to work out their bodies. If the same design philosophy can be applied here we might create a game to excourage people working out their facial muscles as a way to prevent facial paralysis.
+I personally enjoyed the whole process developing this project. And as a game designer I would really love to see what would happen if we can gamify this. Because it's such a unique way of human computer interaction. And it reminds me of the game Ring Fit Adventure which takes players' body movement as input and encourage them to work out their bodies. 
+
+<div class="w3-container w3-center">
+  	<img src="/img/ringfiradventure.jpg" alt="1" class="center" width="500"/>
+</div>
+
+If the same design philosophy can be applied here we might create a game to excourage people working out their facial muscles as a way to prevent facial paralysis.
