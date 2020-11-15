@@ -17,6 +17,7 @@ This is an experimental audio-only game with non-visual design for the visually 
 
 ### Video
 
-<iframe width="500" src="https://www.youtube.com/embed/ACL8xKdLtBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="w3-container w3-center">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/ACL8xKdLtBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 

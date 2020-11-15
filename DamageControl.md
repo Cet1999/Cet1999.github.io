@@ -17,10 +17,16 @@ Tools: Phaser 3, Adobe Photoshop
 
 [Gameplay Video](https://www.youtube.com/watch?v=oPe8F7txhFM&feature=youtu.be)
 
-<iframe width="500" src="https://www.youtube.com/embed/oPe8F7txhFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="w3-container w3-center">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/oPe8F7txhFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Sample Pictures
 
-<img src="/img/DC.png" alt="1" class="center" width="500"/>
+<div class="w3-container w3-center">
+    <img src="/img/DC.png" alt="1" class="center" width="500"/>
+</div>
 
-<img src="/img/DC2.png" alt="1" class="center" width="500"/>
+<div class="w3-container w3-center">
+    <img src="/img/DC2.png" alt="1" class="center" width="500"/>
+</div>

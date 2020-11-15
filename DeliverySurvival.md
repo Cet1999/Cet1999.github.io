@@ -17,7 +17,9 @@ Tools Unity, Maya 3D
 
 [Gameplay Video (Chinese)](https://www.bilibili.com/video/BV1fp4y1v7zh)
 
-<iframe width="800" height="450" class="center" src="//player.bilibili.com/player.html?aid=969325845&bvid=BV1fp4y1v7zh&cid=225106873&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div class="w3-container w3-center">
+    <iframe width="800" height="450" class="center" src="//player.bilibili.com/player.html?aid=969325845&bvid=BV1fp4y1v7zh&cid=225106873&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 
 ### About this Project
 
@@ -29,14 +31,18 @@ Jingyu Zhuang - Designer, Programmer, 3D Artist
 
 ### Sample Pictures
 
-<img src="/img/JDQS7.png" alt="1" class="center" width="800"/>
+<div class="w3-container w3-center">
 
-<img src="/img/JDQS2.png" alt="1" class="center" width="800"/>
+    <img src="/img/JDQS7.png" alt="1" class="center" width="800"/>
 
-<img src="/img/JDQS3.png" alt="1" class="center" width="800"/>
+    <img src="/img/JDQS2.png" alt="1" class="center" width="800"/>
 
-<img src="/img/JDQS4.png" alt="1" class="center" width="800"/>
+    <img src="/img/JDQS3.png" alt="1" class="center" width="800"/>
 
-<img src="/img/JDQS5.png" alt="1" class="center" width="800"/>
+    <img src="/img/JDQS4.png" alt="1" class="center" width="800"/>
 
-<img src="/img/JDQS6.png" alt="1" class="center" width="800"/>
+    <img src="/img/JDQS5.png" alt="1" class="center" width="800"/>
+
+    <img src="/img/JDQS6.png" alt="1" class="center" width="800"/>
+
+</div>
