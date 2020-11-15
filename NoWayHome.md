@@ -15,11 +15,15 @@ Gamemaker Studio 2, Adobe Photoshop
 
 [Gameplay Video](https://www.youtube.com/watch?v=mSdjFybnbQs)
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/mSdjFybnbQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="w3-container w3-center">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/mSdjFybnbQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 [Download](https://jingyu1999.itch.io/no-way-home)
 
-<iframe frameborder="0" src="https://itch.io/embed/362276" width="800" class="center"><a href="https://jingyu1999.itch.io/no-way-home">No Way Home by Cetacean</a></iframe>
+<div class="w3-container w3-center">
+    <iframe frameborder="0" src="https://itch.io/embed/362276" width="800" class="center"><a href="https://jingyu1999.itch.io/no-way-home">No Way Home by Cetacean</a></iframe>
+</div>
 
 ### About this Project
 

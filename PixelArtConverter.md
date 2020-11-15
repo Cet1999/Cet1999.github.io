@@ -18,5 +18,6 @@ Tools: Python
 A python app to convert images to pixel art of user-inputted resolution. It uses Point Sampling algorithm.
 
 ### Sample Pictures
-
-<img src="/img/PAC.jpg" alt="1" class="center" width="800"/>
+<div class="w3-container w3-center">
+    <img src="/img/PAC.jpg" alt="1" class="center" width="800"/>
+</div>

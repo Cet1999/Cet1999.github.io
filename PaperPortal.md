@@ -28,10 +28,9 @@ A complete design document is available including rules, design process and play
 
 ### Sample Pictures
 
-<img src="/img/PP.jpg" alt="1" class="center" width="800"/>
-
-<img src="/img/PP2.png" alt="1" class="center" width="800"/>
-
-<img src="/img/PP3.png" alt="1" class="center" width="800"/>
-
-<img src="/img/PP4.png" alt="1" class="center" width="800"/>
+<div class="w3-container w3-center">
+    <img src="/img/PP.jpg" alt="1" class="center" width="800"/>
+    <img src="/img/PP2.png" alt="1" class="center" width="800"/>
+    <img src="/img/PP3.png" alt="1" class="center" width="800"/>
+    <img src="/img/PP4.png" alt="1" class="center" width="800"/>
+</div>

@@ -28,4 +28,7 @@ This is the game I made during i-Thrive Game Jam @ Albany 2018 **under 48 hours*
 
 ### Sample Pictures
 
-<img src="/img/CA.png" alt="1" class="center" width="800"/>
+
+<div class="w3-container w3-center">
+    <img src="/img/CA.png" alt="1" class="center" width="800"/>
+</div>

@@ -19,7 +19,9 @@ Tools: Unity Webgl, Adobe Photoshop
 
 [Playable in Browser](https://jingyu1999.itch.io/thegameisbroken)
 
-<iframe frameborder="0" src="https://itch.io/embed/558175" width="800" class="center"><a href="https://jingyu1999.itch.io/thegameisbroken">The Game is Broken by Cetacean</a></iframe>
+<div class="w3-container w3-center">
+    <iframe frameborder="0" src="https://itch.io/embed/558175" width="800" class="center"><a href="https://jingyu1999.itch.io/thegameisbroken">The Game is Broken by Cetacean</a></iframe>
+</div>
 
 ### About this Project
 
@@ -29,8 +31,7 @@ I finally managed to complete 4 levels using 48 hours. The game received a lot o
 
 ### Sample Pictures
 
-
-
-<img src="/img/TGIB2.png" alt="1" class="center" width="800"/>
-
-<img src="/img/TGIB.png" alt="1" class="center" width="800"/>
+<div class="w3-container w3-center">
+    <img src="/img/TGIB2.png" alt="1" class="center" width="800"/>
+    <img src="/img/TGIB.png" alt="1" class="center" width="800"/>
+</div>
