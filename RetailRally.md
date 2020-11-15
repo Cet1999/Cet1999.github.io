@@ -36,7 +36,7 @@ Awards: Finalist of **Technical Innovation Award** at **Game Fest 2020**!
 
 ## About this Project
 
-Retail Rally is a four player couch competitive shopping game. Players race to complete their shopping list while simultaneously dealing with obstacles imposed by other players in a non-linear sandbox supermarket. Players additionally can download the corresponding Retail Rally app, and connect their personal devices to the game session in order to gain access to features such as private shopping lists, and a GPS store navigator.
+Retail Rally is a four-player couch competitive shopping game. Players race to complete their shopping list while simultaneously dealing with obstacles imposed by other players in a non-linear sandbox supermarket. Players additionally can download the corresponding Retail Rally App, and connect their personal devices to the game session in order to gain access to features such as private shopping lists and a GPS store navigator.
 
 As the designer and programmer of the team I developed the Retail Rally App, I conceptualized and developed the cellphone app and build the LAN server in the PC game client, along with the stable connection between cellphone App and PC.
 
@@ -48,4 +48,6 @@ As the designer and programmer of the team I developed the Retail Rally App, I c
 
 <img src="/img/RR4.png" alt="1" class="center" width="300"/>
 
-<img src="/img/RR5.png" alt="1" class="center" width="800"/>
+<img src="/img/RR5.png" alt="1" class="center" width="300"/>
+
+<img src="/img/RR6.png" alt="1" class="center" width="300"/>
