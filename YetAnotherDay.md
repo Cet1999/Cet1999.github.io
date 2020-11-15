@@ -22,13 +22,11 @@ Unreal Engine 4
 
 ### About this Project
 
-The game uses environmental storytelling to evoke emotional impact on players. 
+Yet Another Day is a first person interactive storytelling game. The players play as a companion robot doing housework in an empty house repetitively, eventually discovering the fact that his owner, an old musician, has died months ago. The goal of the project is to evoke loneliness as an emotional impact on players.
 
-As the lead designer, I **designed all the gameplay and the narrative structure of the game**. I also **collaborated with the artist team to design and constructed the level of the game**.
+As the lead designer I designed all the gameplay and the narrative structure of the game. I also collaborated with the artist team to design and constructed the entire level of the game.
 
-As the lead programmer, I **developed major functionalities of the game with Unreal Blueprint and C++**, I also **constructed an in-engine pipeline for the artist team** so that they can add custom interactions to their model by just tagging their model, like "inspect", "Pickup", etc.
-
-As the animator I **did all the cut sceens and animations using Unreal Level Sequencer**
+Programming wise I developed all functionalities of the game, constructed an in-engine pipeline for the artist team so that they can add custom interactions features by just tagging their model, like “inspect”, “Pickup”, etc. In addition I completed all the cutscenes and animations using Unreal Level Sequencer
 
 ### Sample Pictures
 

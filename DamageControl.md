@@ -24,9 +24,9 @@ Tools: Phaser 3, Adobe Photoshop
 ### Sample Pictures
 
 <div class="w3-container w3-center">
-    <img src="/img/DC.png" alt="1" class="center" width="500"/>
+    <img src="/img/DC.png" alt="1" class="center" width="800"/>
 </div>
 
 <div class="w3-container w3-center">
-    <img src="/img/DC2.png" alt="1" class="center" width="500"/>
+    <img src="/img/DC2.png" alt="1" class="center" width="800"/>
 </div>
