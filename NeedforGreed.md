@@ -23,4 +23,6 @@ As the designer I led the team through the whole design process: Brainstorming, 
 
 ### Sample Pictures
 
-<img src="/img/NFG.jpg" alt="1" class="center" width="800"/>
+<div class="w3-container w3-center">
+    <img src="/img/NFG.jpg" alt="1" class="center" width="800"/>
+</div>

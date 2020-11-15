@@ -29,4 +29,6 @@ This game tells a story of three polar bears who lost their home because of glob
 
 ### Sample Pictures
 
-<img src="/img/NWH.jpg" alt="1" class="center" width="800"/>
+<div class="w3-container w3-center">
+    <img src="/img/NWH.jpg" alt="1" class="center" width="800"/>
+</div>
