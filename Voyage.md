@@ -52,8 +52,8 @@ The project is founded on September 2020 during the global pandemic and the goal
 ## Unofficial Gameplay Video
 
 <div class="w3-container w3-center">
-    <iframe width="750" height="100%" src="https://www.youtube.com/embed/3rgKVex4lPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="750" height="100%" src="https://www.youtube.com/embed/FIODw0EaML8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/3rgKVex4lPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/FIODw0EaML8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Sample Pictures
