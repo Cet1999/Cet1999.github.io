@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Voyage (Ongoing)
+title: Voyage
 genre: Multiplayer Open-world Sandbox Game
 img: /img/Voyage.png
 img2: /img/Voyage.png
@@ -48,12 +48,10 @@ Voyage is a virtual travel experience. It simulates the entire Earth with Google
 It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in the world forever, not only seen by all other players traveling to the place, but also lighting up the region. 
 The project is founded on September 2020 during the global pandemic and the goal is to give players positive energy and a sense of hope.
 
-
-## Unofficial Gameplay Video
+## Official Trailer 2020.11.18
 
 <div class="w3-container w3-center">
-    <iframe width="100%" height="450" src="https://www.youtube.com/embed/3rgKVex4lPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <iframe width="100%" height="450" src="https://www.youtube.com/embed/FIODw0EaML8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/PnQKOP2K57A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Sample Pictures
@@ -65,6 +63,14 @@ The project is founded on September 2020 during the global pandemic and the goal
     <img src="/img/LevelUp.gif" alt="1" class="center" width="800"/>
     <img src="/img/ColorChange.gif" alt="1" class="center" width="800"/>
 </div>
+
+## Unofficial Gameplay Video
+
+<div class="w3-container w3-center">
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/3rgKVex4lPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/FIODw0EaML8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Official Devlogs
 
