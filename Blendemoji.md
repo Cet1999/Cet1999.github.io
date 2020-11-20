@@ -57,18 +57,19 @@ The picture on the right demonstrate the idea. Top row shows two good features. 
 In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
 
 ```
-void cv::CascadeClassifier::detectMultiScale\
-(	InputArray 				image,\
-	std::vector< Rect > &	objects,\
-	double 					scaleFactor = 1.1,\
-	int 					minNeighbors = 3,\
-	int 					flags = 0,\
-	Size 					minSize = Size(),\
+void cv::CascadeClassifier::detectMultiScale
+(	InputArray 				image,
+	std::vector< Rect > &	objects,
+	double 					scaleFactor = 1.1,
+	int 					minNeighbors = 3,
+	int 					flags = 0,
+	Size 					minSize = Size(),
 	Size 					maxSize = Size() 
 )
+
 ```
 | Parameters | Explanation |
-| :----: |-------|
+| :----: | :----: |
 | image		|	Matrix of the type CV_8U containing an image where objects are detected. |
 | objects	|		Vector of rectangles where each rectangle contains the detected object, the rectangles may be partially outside the original image. |
 | scaleFactor	|	Parameter specifying how much the image size is reduced at each image scale. |
@@ -100,7 +101,7 @@ virtual bool cv::face::Facemark::fit	(
 ```
 
 | Parameters | Explanation |
-| :----: |-------|
+| :----: | :----: |
 | image | Input image. |
 | faces | Output of the function which represent region of interest of the detected faces. Each face is stored in cv::Rect container. |
 | landmarks | The detected landmark points for each faces. |
@@ -143,7 +144,7 @@ bool cv::solvePnP	(
 ```
 
 | Parameters | Explanation |
-| :----: |-------|
+| :----: | :----: |
 | objectPoints | Array of object points in the object coordinate space, Nx3 1-channel or 1xN/Nx1 3-channel, where N is the number of points. vector<Point3d> can be also passed here. |
 | imagePoints | Array of corresponding image points, Nx2 1-channel or 1xN/Nx1 2-channel, where N is the number of points. vector<Point2d> can be also passed here. |
 | cameraMatrix | Input camera intrinsic matrix A. |
