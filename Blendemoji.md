@@ -67,14 +67,15 @@ void cv::CascadeClassifier::detectMultiScale\
 	Size 					maxSize = Size() 
 )
 ```
-Parameters\
-image			Matrix of the type CV_8U containing an image where objects are detected.\
-objects			Vector of rectangles where each rectangle contains the detected object, the rectangles may be partially outside the original image.\
-scaleFactor		Parameter specifying how much the image size is reduced at each image scale.\
-minNeighbors	Parameter specifying how many neighbors each candidate rectangle should have to retain it.\
-flags			Parameter with the same meaning for an old cascade as in the function cvHaarDetectObjects. It is not used for a new cascade.\
-minSize			Minimum possible object size. Objects smaller than that are ignored.\
-maxSize			Maximum possible object size. Objects larger than that are ignored. If maxSize == minSize model is evaluated on single scale.
+| Parameters | Explanation |
+| :----: |-------|
+| image		|	Matrix of the type CV_8U containing an image where objects are detected. |
+| objects	|		Vector of rectangles where each rectangle contains the detected object, the rectangles may be partially outside the original image. |
+| scaleFactor	|	Parameter specifying how much the image size is reduced at each image scale. |
+| minNeighbors	| Parameter specifying how many neighbors each candidate rectangle should have to retain it. |
+| flags			| Parameter with the same meaning for an old cascade as in the function cvHaarDetectObjects. It is not used for a new cascade. |
+| minSize	|		Minimum possible object size. Objects smaller than that are ignored. |
+| maxSize	|		Maximum possible object size. Objects larger than that are ignored. If maxSize == minSize model is evaluated on single scale. |
 
 
 #### Facial Landmark API
@@ -99,7 +100,7 @@ virtual bool cv::face::Facemark::fit	(
 ```
 
 | Parameters | Explanation |
-|-------|-------|
+| :----: |-------|
 | image | Input image. |
 | faces | Output of the function which represent region of interest of the detected faces. Each face is stored in cv::Rect container. |
 | landmarks | The detected landmark points for each faces. |
