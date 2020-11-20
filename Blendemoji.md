@@ -136,15 +136,16 @@ bool cv::solvePnP	(
 	int 			flags = SOLVEPNP_ITERATIVE 
 )
 
-Parameters
-objectPoints	Array of object points in the object coordinate space, Nx3 1-channel or 1xN/Nx1 3-channel, where N is the number of points. vector<Point3d> can be also passed here.
-imagePoints	Array of corresponding image points, Nx2 1-channel or 1xN/Nx1 2-channel, where N is the number of points. vector<Point2d> can be also passed here.
-cameraMatrix	Input camera intrinsic matrix A=⎡⎣⎢fx000fy0cxcy1⎤⎦⎥ .
-distCoeffs	Input vector of distortion coefficients (k1,k2,p1,p2[,k3[,k4,k5,k6[,s1,s2,s3,s4[,τx,τy]]]]) of 4, 5, 8, 12 or 14 elements. If the vector is NULL/empty, the zero distortion coefficients are assumed.
-rvec	Output rotation vector (see Rodrigues ) that, together with tvec, brings points from the model coordinate system to the camera coordinate system.
-tvec	Output translation vector.
-useExtrinsicGuess	Parameter used for SOLVEPNP_ITERATIVE. If true (1), the function uses the provided rvec and tvec values as initial approximations of the rotation and translation vectors, respectively, and further optimizes them.
-flags	Method for solving a PnP problem:
+| Parameters | Explanation |
+|-------|-------|
+| objectPoints | Array of object points in the object coordinate space, Nx3 1-channel or 1xN/Nx1 3-channel, where N is the number of points. vector<Point3d> can be also passed here. |
+| imagePoints | Array of corresponding image points, Nx2 1-channel or 1xN/Nx1 2-channel, where N is the number of points. vector<Point2d> can be also passed here. |
+| cameraMatrix | Input camera intrinsic matrix A. |
+| distCoeffs | Input vector of distortion coefficients (k1,k2,p1,p2[,k3[,k4,k5,k6[,s1,s2,s3,s4[,τx,τy]]]]) of 4, 5, 8, 12 or 14 elements. If the vector is NULL/empty, the zero distortion coefficients are assumed. |
+| rvec | Output rotation vector (see Rodrigues ) that, together with tvec, brings points from the model coordinate system to the camera coordinate system. |
+| tvec | Output translation vector. |
+| useExtrinsicGuess | Parameter used for SOLVEPNP_ITERATIVE. If true (1), the function uses the provided rvec and tvec values as initial approximations of the rotation and translation vectors, respectively, and further optimizes them. |
+| flags | Method for solving a PnP problem. |
 
 And... Done!
 
