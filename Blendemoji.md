@@ -56,7 +56,7 @@ The picture on the right demonstrate the idea. Top row shows two good features. 
 
 In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
 
-'''
+```
 	void cv::CascadeClassifier::detectMultiScale	(	InputArray 				image,
 														std::vector< Rect > & 	objects,
 														double 					scaleFactor = 1.1,
@@ -75,7 +75,7 @@ In OpenCV library the algorithm applied by calling function [void detectMultiSca
 	minSize			Minimum possible object size. Objects smaller than that are ignored.
 	maxSize			Maximum possible object size. Objects larger than that are ignored. If maxSize == minSize model is evaluated on single scale.
 
-'''
+```
 
 #### Facial Landmark API
 
