@@ -56,7 +56,7 @@ The picture on the right demonstrate the idea. Top row shows two good features. 
 
 In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
 
-
+```
 void cv::CascadeClassifier::detectMultiScale\
 (	InputArray 				image,\
 	std::vector< Rect > & 	objects,\
@@ -66,7 +66,7 @@ void cv::CascadeClassifier::detectMultiScale\
 	Size 					minSize = Size(),\
 	Size 					maxSize = Size() 
 )
-
+```
 Parameters\
 image			Matrix of the type CV_8U containing an image where objects are detected.\
 objects			Vector of rectangles where each rectangle contains the detected object, the rectangles may be partially outside the original image.\
