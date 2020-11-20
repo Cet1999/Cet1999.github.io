@@ -135,8 +135,8 @@ bool cv::solvePnP	(
 	InputArray 		imagePoints,
 	InputArray 		cameraMatrix,
 	InputArray 		distCoeffs,
-	OutputArray 	rvec,
-	OutputArray 	tvec,
+	OutputArray		rvec,
+	OutputArray		tvec,
 	bool 			useExtrinsicGuess = false,
 	int 			flags = SOLVEPNP_ITERATIVE 
 )
