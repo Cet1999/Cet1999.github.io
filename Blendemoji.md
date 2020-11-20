@@ -57,13 +57,14 @@ The picture on the right demonstrate the idea. Top row shows two good features. 
 In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
 
 
-void cv::CascadeClassifier::detectMultiScale	(	InputArray 				image,
-													std::vector< Rect > & 	objects,
-													double 					scaleFactor = 1.1,
-													int 					minNeighbors = 3,
-													int 					flags = 0,
-													Size 					minSize = Size(),
-													Size 					maxSize = Size() 
+void cv::CascadeClassifier::detectMultiScale	
+(	InputArray 				image,
+	std::vector< Rect > & 	objects,
+	double 					scaleFactor = 1.1,
+	int 					minNeighbors = 3,
+	int 					flags = 0,
+	Size 					minSize = Size(),
+	Size 					maxSize = Size() 
 )
 
 Parameters
@@ -86,6 +87,19 @@ Active Appearance Models Algorithm is a method of matching statistical models of
 Christopher J. Taylor. (Their Paper)[https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/cootes-pami-01.pdf]
 
 [Documentation for the API](https://github.com/kurnianggoro/GSOC2017)
+
+To detect landmarks we use function [virtual bool cv::face::Facemark::fit()](https://docs.opencv.org/3.4/db/dd8/classcv_1_1face_1_1Facemark.html#a9c21865859a685d16746f0097e9b3d26)
+
+virtual bool cv::face::Facemark::fit	(\
+	InputArray 				image,\
+	InputArray 				faces,\
+	OutputArrayOfArrays 	landmarks \
+)
+
+Parameters\
+image		Input image.\
+faces		Output of the function which represent region of interest of the detected faces. Each face is stored in cv::Rect container.\
+landmarks	The detected landmark points for each faces.
 
 Now we have our data extracted, let's try to interpret data and apply it on our models.
 
@@ -110,6 +124,8 @@ Intrinsic Camera Matrix: the intrinsic parameters of our camera (In this case it
 Homogeneous World Point: the point on the 3D model (In this case it's the coordinate of the specific bone corresponding to the facial component)
 
 And that leaves us with the matrix on the middle, the [R T] matrix. Which can be broke down as 3D Rotation and Translation which can be applied onto the model.
+
+
 
 And... Done!
 
