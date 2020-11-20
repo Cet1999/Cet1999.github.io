@@ -59,7 +59,7 @@ In OpenCV library the algorithm applied by calling function [void detectMultiSca
 ```
 void cv::CascadeClassifier::detectMultiScale\
 (	InputArray 				image,\
-	std::vector< Rect > & 	objects,\
+	std::vector< Rect > &	objects,\
 	double 					scaleFactor = 1.1,\
 	int 					minNeighbors = 3,\
 	int 					flags = 0,\
@@ -93,9 +93,9 @@ To detect landmarks we use function [virtual bool cv::face::Facemark::fit()](htt
 
 ```
 virtual bool cv::face::Facemark::fit	(
-	InputArray 				image,
-	InputArray 				faces,
-	OutputArrayOfArrays 	landmarks 
+	InputArray			image,
+	InputArray			faces,
+	OutputArrayOfArrays	landmarks 
 )
 ```
 
@@ -131,14 +131,14 @@ And that leaves us with the matrix on the middle, the [R T] matrix. Which can be
 
 ```
 bool cv::solvePnP	(	
-	InputArray 		objectPoints,
-	InputArray 		imagePoints,
-	InputArray 		cameraMatrix,
-	InputArray 		distCoeffs,
-	OutputArray		rvec,
-	OutputArray		tvec,
-	bool 			useExtrinsicGuess = false,
-	int 			flags = SOLVEPNP_ITERATIVE 
+	InputArray 	objectPoints,
+	InputArray 	imagePoints,
+	InputArray 	cameraMatrix,
+	InputArray 	distCoeffs,
+	OutputArray	rvec,
+	OutputArray	tvec,
+	bool 		useExtrinsicGuess = false,
+	int 		flags = SOLVEPNP_ITERATIVE 
 )
 ```
 
