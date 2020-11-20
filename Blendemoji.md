@@ -56,6 +56,18 @@ The picture on the right demonstrate the idea. Top row shows two good features. 
 
 In OpenCV library the algorithm applied by calling function [void detectMultiScale()](https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498)
 
+'''
+	void cv::CascadeClassifier::detectMultiScale	(	InputArray 				image,
+														std::vector< Rect > & 	objects,
+														double 					scaleFactor = 1.1,
+														int 					minNeighbors = 3,
+														int 					flags = 0,
+														Size 					minSize = Size(),
+														Size 					maxSize = Size() 
+	)	
+
+'''
+
 #### Facial Landmark API
 
 with my detected landmark feature. I used Facial Landmark API to further recognize different facial components.
