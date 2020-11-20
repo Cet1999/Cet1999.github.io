@@ -90,16 +90,19 @@ Christopher J. Taylor. (Their Paper)[https://people.eecs.berkeley.edu/~efros/cou
 
 To detect landmarks we use function [virtual bool cv::face::Facemark::fit()](https://docs.opencv.org/3.4/db/dd8/classcv_1_1face_1_1Facemark.html#a9c21865859a685d16746f0097e9b3d26)
 
-virtual bool cv::face::Facemark::fit	(\
-	InputArray 				image,\
-	InputArray 				faces,\
-	OutputArrayOfArrays 	landmarks \
+```
+virtual bool cv::face::Facemark::fit	(
+	InputArray 				image,
+	InputArray 				faces,
+	OutputArrayOfArrays 	landmarks 
 )
+```
 
-Parameters\
-image		Input image.\
-faces		Output of the function which represent region of interest of the detected faces. Each face is stored in cv::Rect container.\
-landmarks	The detected landmark points for each faces.
+| Parameters | Explanation |
+|-------|-------|
+| image | Input image. |
+| faces | Output of the function which represent region of interest of the detected faces. Each face is stored in cv::Rect container. |
+| landmarks | The detected landmark points for each faces. |
 
 Now we have our data extracted, let's try to interpret data and apply it on our models.
 
@@ -125,6 +128,7 @@ Homogeneous World Point: the point on the 3D model (In this case it's the coordi
 
 And that leaves us with the matrix on the middle, the [R T] matrix. Which can be broke down as 3D Rotation and Translation which can be applied onto the model.
 
+```
 bool cv::solvePnP	(	
 	InputArray 		objectPoints,
 	InputArray 		imagePoints,
@@ -135,6 +139,7 @@ bool cv::solvePnP	(
 	bool 			useExtrinsicGuess = false,
 	int 			flags = SOLVEPNP_ITERATIVE 
 )
+```
 
 | Parameters | Explanation |
 |-------|-------|
