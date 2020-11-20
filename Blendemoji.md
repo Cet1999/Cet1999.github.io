@@ -142,7 +142,7 @@ bool cv::solvePnP	(
 ```
 
 | Parameters | Explanation |
-|-------|-------|
+| :----: |-------|
 | objectPoints | Array of object points in the object coordinate space, Nx3 1-channel or 1xN/Nx1 3-channel, where N is the number of points. vector<Point3d> can be also passed here. |
 | imagePoints | Array of corresponding image points, Nx2 1-channel or 1xN/Nx1 2-channel, where N is the number of points. vector<Point2d> can be also passed here. |
 | cameraMatrix | Input camera intrinsic matrix A. |
