@@ -10,29 +10,24 @@ permalink: /VoyageDesignDoc/
   
 
 # Table of Contents
+<!-- TOC -->
 
-  
-
+- [Table of Contents](#table-of-contents)
 - [Game Overview](#game-overview)
 - [Game Philosophy](#game-philosophy)
-    * [Why create this game](#why-create-this-game)
-	* [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-socioCultural-project-impact)
-	* [Predecessor or Previous Games / Distinctive Factors in this Genre](#predecessor-or-previous-games/distinctive-factors-in-this-genre)
-	* [Target Audience](#target-audience)
-- [Common Questions](#heading-2)
-	* [What is the Game?](#what-is-the-game)
-	* [Where Does the Game Take Place?](#sub-heading-2)
-	* [What Do the Players Do?](#sub-heading-2)
-	* [How Many Characters are There?](#sub-heading-2)
-	* [What is the Main Focus?](#sub-heading-2)
-	* [What’s Different?](#sub-heading-2)
-- [Design History](#heading-2)
-	* [Version 1.0](#sub-heading-2)
-	* [Version 2.0](#sub-heading-2)
-	* [Version 3.0](#sub-heading-2)
-	    + [Sub-sub-heading](#sub-sub-heading-2)
+        - [Why Create this game](#why-create-this-game)
+        - [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
+        - [Predecessor or previous games/distinctive factors in this genre](#predecessor-or-previous-gamesdistinctive-factors-in-this-genre)
+        - [Target Audience](#target-audience)
+- [Common Questions](#common-questions)
+        - [What is the Game](#what-is-the-game)
+        - [Where Does the Game Take Place?](#where-does-the-game-take-place)
+        - [What Do the Players Do?](#what-do-the-players-do)
+        - [How Many Characters are There?](#how-many-characters-are-there)
+        - [What is the Main Focus?](#what-is-the-main-focus)
+        - [What’s Different?](#whats-different)
 
-
+<!-- /TOC -->
 
 # Game Overview
 Voyage is a virtual travel experience. It simulates the entire Earth with Google Map geo-data and present it to players based on the coordinate they choose. It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in the world forever and seen by all other players traveling to the place.
