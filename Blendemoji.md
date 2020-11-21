@@ -68,6 +68,7 @@ void cv::CascadeClassifier::detectMultiScale
 )
 
 ```
+
 | Parameters | Explanation |
 | :----: | :----: |
 | image	| Matrix of the type CV_8U containing an image where objects are detected. |
