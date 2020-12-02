@@ -15,8 +15,8 @@ permalink: /VoyageDesignDoc/
 - [Table of Contents](#table-of-contents)
 - [Game Overview](#game-overview)
 - [Game Philosophy](#game-philosophy)
-        + [Why Create this game](#why-create-this-game)
-        + [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
+        - [Why Create this game](#why-create-this-game)
+        - [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
         - [Predecessor or previous games/distinctive factors in this genre](#predecessor-or-previous-gamesdistinctive-factors-in-this-genre)
         - [Target Audience](#target-audience)
 - [Common Questions](#common-questions)
@@ -28,6 +28,9 @@ permalink: /VoyageDesignDoc/
         - [What’s Different?](#whats-different)
 - [Design History](#design-history)
         - [Version 1.0](#version-10)
+        - [Version 1.1](#version-11)
+        - [Version 1.2](#version-12)
+        - [Version 1.3](#version-13)
 
 <!-- /TOC -->
 
@@ -41,8 +44,11 @@ The game is created as an experimental project of Experimental Game Design, a RP
 The immediate goal of the project is to bring people positive energy and a sense of hope during the 2020 COVID-19 Pandemic. The long term objective is to build a spiritual connection between people around the globe regardless of their culture and ethnic.
 ### Predecessor or previous games/distinctive factors in this genre
 Where on Google Earth is Carmen Sandiego?
+
 Sky: Children of the Light
+
 Death Stranding
+
 Ingress
 ### Target Audience
 **Literally everyone!** The intention is to build a virtual shared environment that everyone can have fun in and take care of.
@@ -65,4 +71,21 @@ The project is experimental mainly because its use of Realtime Geodata. The enti
 ### Version 1.0
 Version 1.0 includes a complete single-player travel experience. It has:
 1.Procedurally generated world with Google Map Geodata.
-2.
+2.Magic cube at landed region for players to explore and activate to revitalize the world
+
+### Version 1.1
+Version 1.1 includes a Semi-multiplayer update. It has:
+
+1.A creation system allowing players to plant flowers and trees in the world.
+
+2.A online server and database syncing creations and presents them to all other players.
+
+### Version 1.2
+Version 1.2 includes a Multiplayer update. It has:
+1.An account system holding all player datas.
+2.A real time multiplayer server, players can now meet each other and travel together.
+
+### Version 1.3
+Version 1.3 includes a big UI update. It has:
+1.A complete UI system including all systems(Creation, Stats, Menus, Maps, etc).
+2.A minimap giving players a top down view of the surrounding.
