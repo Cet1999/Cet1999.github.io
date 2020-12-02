@@ -15,8 +15,8 @@ permalink: /VoyageDesignDoc/
 - [Table of Contents](#table-of-contents)
 - [Game Overview](#game-overview)
 - [Game Philosophy](#game-philosophy)
-        - [Why Create this game](#why-create-this-game)
-        - [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
+        + [Why Create this game](#why-create-this-game)
+        + [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
         - [Predecessor or previous games/distinctive factors in this genre](#predecessor-or-previous-gamesdistinctive-factors-in-this-genre)
         - [Target Audience](#target-audience)
 - [Common Questions](#common-questions)
@@ -26,6 +26,8 @@ permalink: /VoyageDesignDoc/
         - [How Many Characters are There?](#how-many-characters-are-there)
         - [What is the Main Focus?](#what-is-the-main-focus)
         - [What’s Different?](#whats-different)
+- [Design History](#design-history)
+        - [Version 1.0](#version-10)
 
 <!-- /TOC -->
 
@@ -47,10 +49,20 @@ Ingress
 
 # Common Questions
 ### What is the Game
+It is a multiplayer sandbox openworld.
 ### Where Does the Game Take Place?
 The game takes place at any where on the Earth. Players simply choose their desired coordinate and start traveling.
 ### What Do the Players Do?
-Ex
+Explore the world and leave their marks. Meet other players and travel together.
 ### How Many Characters are There?
+Just one.
 ### What is the Main Focus?
+The initial focus is for people to have a virtual hangout experience during the pandemic. And as the project progresses it slowly transformed to a multiplayer social experience to connect people together.
 ### What’s Different?
+The project is experimental mainly because its use of Realtime Geodata. The entire world is procedurally generated simulating the entire planet.
+
+# Design History
+### Version 1.0
+Version 1.0 includes a complete single-player travel experience. It has:
+1.Procedurally generated world with Google Map Geodata.
+2.
