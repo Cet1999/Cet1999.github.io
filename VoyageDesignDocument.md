@@ -15,28 +15,30 @@ permalink: /VoyageDesignDoc/
 - [Table of Contents](#table-of-contents)
 - [Game Overview](#game-overview)
 - [Game Philosophy](#game-philosophy)
-      - [Why Create this game](#why-create-this-game)
+        - [Why Create this game](#why-create-this-game)
         - [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
         - [Predecessor or previous games/distinctive factors in this genre](#predecessor-or-previous-gamesdistinctive-factors-in-this-genre)
         - [Target Audience](#target-audience)
 - [Common Questions](#common-questions)
-      - [What is the Game](#what-is-the-game)
+        - [What is the Game](#what-is-the-game)
         - [Where Does the Game Take Place?](#where-does-the-game-take-place)
         - [What Do the Players Do?](#what-do-the-players-do)
         - [How Many Characters are There?](#how-many-characters-are-there)
         - [What is the Main Focus?](#what-is-the-main-focus)
         - [What’s Different?](#whats-different)
 - [Design History](#design-history)
-      - [Version 1.0](#version-10)
+        - [Version 1.0](#version-10)
         - [Version 1.1](#version-11)
         - [Version 1.2](#version-12)
         - [Version 1.3](#version-13)
 - [Feature Set](#feature-set)
-      - [General Features](#general-features)
+        - [General Features](#general-features)
         - [Multiplayer Features](#multiplayer-features)
         - [Gameplay](#gameplay)
+- [User Interface](#user-interface)
+        - [Overview](#overview)
 - [Multiplayer Game](#multiplayer-game)
-      - [Overview](#overview)
+        - [Overview](#overview)
         - [Max Players](#max-players)
         - [Servers](#servers)
         - [Database](#database)
@@ -120,6 +122,10 @@ Everyone Shares the Same World
 Creation
 
 Traveling
+
+# User Interface
+### Overview
+UI System are contained inside a UI wheel system
 
 # Multiplayer Game
 ### Overview
