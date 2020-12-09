@@ -74,9 +74,9 @@ It is a multiplayer sandbox openworld simulating the true-to-size real world.
 ### Where Does the Game Take Place?
 The game takes place at any where on the Earth. Players simply choose their desired coordinate and start traveling.
 ### What Do the Players Do?
-Explore the world and leave their marks. Meet other players and travel together.
+Players can explore the OpenWorld and leave their marks. They can also Meet other players and travel together. 
 ### How Many Characters are There?
-Just one.
+There is just one character for players.
 ### What is the Main Focus?
 The initial focus is for people to have a virtual hangout experience during the pandemic. And as the project progresses it slowly transformed to a multiplayer social experience to connect people together.
 ### What’s Different?
