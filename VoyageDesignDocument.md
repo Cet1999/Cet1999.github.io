@@ -10,63 +10,67 @@ permalink: /VoyageDesignDoc/
   
 
 # Table of Contents
-<!-- TOC -->
 
 - [Table of Contents](#table-of-contents)
 - [Game Overview](#game-overview)
 - [Game Philosophy](#game-philosophy)
-        - [Why Create this game](#why-create-this-game)
-        - [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
-        - [Predecessor or previous games/distinctive factors in this genre](#predecessor-or-previous-gamesdistinctive-factors-in-this-genre)
-        - [Target Audience](#target-audience)
+  - [Why Create this game](#why-create-this-game)
+  - [Immediate and Long Term Projected SocioCultural Project Impact](#immediate-and-long-term-projected-sociocultural-project-impact)
+  - [Predecessor or previous games/distinctive factors in this genre](#predecessor-or-previous-gamesdistinctive-factors-in-this-genre)
+  - [Target Audience](#target-audience)
 - [Common Questions](#common-questions)
-        - [What is the Game](#what-is-the-game)
+  - [What is the Game](#what-is-the-game)
         - [Where Does the Game Take Place?](#where-does-the-game-take-place)
         - [What Do the Players Do?](#what-do-the-players-do)
         - [How Many Characters are There?](#how-many-characters-are-there)
         - [What is the Main Focus?](#what-is-the-main-focus)
         - [What’s Different?](#whats-different)
 - [Design History](#design-history)
-        - [Version 1.0](#version-10)
+  - [Version 1.0](#version-10)
         - [Version 1.1](#version-11)
         - [Version 1.2](#version-12)
         - [Version 1.3](#version-13)
 - [Feature Set](#feature-set)
-        - [General Features](#general-features)
+  - [General Features](#general-features)
         - [Multiplayer Features](#multiplayer-features)
         - [Gameplay](#gameplay)
 - [User Interface](#user-interface)
-        - [Overview](#overview)
+  - [Overview](#overview)
+        - [Login](#login)
+        - [In Game](#in-game)
 - [Multiplayer Game](#multiplayer-game)
-        - [Overview](#overview)
-        - [Max Players](#max-players)
-        - [Servers](#servers)
-        - [Database](#database)
+  - [Overview](#overview)
+  - [Max Players](#max-players)
+  - [Servers](#servers)
+  - [Database](#database)
 
-<!-- /TOC -->
 
 # Game Overview
-Voyage is a virtual travel experience. It simulates the entire Earth with Google Map geo-data and present it to players based on the coordinate they choose. It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in the world forever and seen by all other players traveling to the place.
+Voyage is a virtual travel experience. It simulates the entire Earth with Google Map geo-data and presents it to players as a huge Multiplayer Sandbox Open World.
+
+It is also a shared environment. Players get to meet each other in this game, share their journey and make their own marks in the world. Their creations will be in this world forever, not only seen by all the other players traveling to the place, but also lighting up the region.
+
+The project is founded on September 2020 during the global pandemic and the goal is to give players positive energy and a sense of hope.
 
 # Game Philosophy
 ### Why Create this game
-The game is created as an experimental project of Experimental Game Design, a RPI game design course, under the supervision of Professor Kathleen Ruiz.
+In 2020, The spread of the global pandemic has forced everyone to go into lockdown and self-quarantine. While everyone is trapped by the endless growing number of infections, I decided to start this video game project for people to hangout in a virtual space. 
 ### Immediate and Long Term Projected SocioCultural Project Impact
 The immediate goal of the project is to bring people positive energy and a sense of hope during the 2020 COVID-19 Pandemic. The long term objective is to build a spiritual connection between people around the globe regardless of their culture and ethnic.
 ### Predecessor or previous games/distinctive factors in this genre
-Where on Google Earth is Carmen Sandiego?
+[Where on Google Earth is Carmen Sandiego?](https://experiments.withgoogle.com/where-on-earth)
 
-Sky: Children of the Light
+[Sky: Children of the Light](https://thatskygame.com/)
 
-Death Stranding
+[Death Stranding](https://store.steampowered.com/app/1190460/DEATH_STRANDING/)
 
-Ingress
+[Ingress](https://www.ingress.com/)
 ### Target Audience
 **Literally everyone!** The intention is to build a virtual shared environment that everyone can have fun in and take care of.
 
 # Common Questions
 ### What is the Game
-It is a multiplayer sandbox openworld.
+It is a multiplayer sandbox openworld simulating the true-to-size real world.
 ### Where Does the Game Take Place?
 The game takes place at any where on the Earth. Players simply choose their desired coordinate and start traveling.
 ### What Do the Players Do?
@@ -125,9 +129,21 @@ Traveling
 
 # User Interface
 ### Overview
-UI System are contained inside a UI wheel system
+To start the game players need to go through a seperate starter page with a login page and an embedded map. In game UI System are contained inside a UI wheel system
+
+### Login
+
+<img src="/img/GoogleMapUI.gif" alt="1" class="center" width="800"/>
+
+### In Game
+
+<img src="/img/PlantTree.gif" alt="1" class="center" width="800"/>
+
 
 # Multiplayer Game
+
+<img src="/img/MultiPlayer.gif" alt="1" class="center" width="800"/>
+
 ### Overview
 The game supports real time multiplayer and every player shares the same world. It also has a cloud database to hold all players' creations and present them to all other players.
 
