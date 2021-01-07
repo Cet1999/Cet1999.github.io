@@ -59,6 +59,12 @@ The project is founded on September 2020 during the global pandemic and the goal
 ## Sample Pictures
 
 <div class="w3-container w3-center">
+    2021.1.1
+    <img src="/img/VoyageDayNightSwitch.gif" alt="1" class="center" width="800"/>
+    <img src="/img/VoyageDay.png" alt="1" class="center" width="800"/>
+    <img src="/img/VoyageNight.png" alt="1" class="center" width="800"/>
+</div>
+<div class="w3-container w3-center">
     <img src="/img/GoogleMapUI.gif" alt="1" class="center" width="800"/>
     <img src="/img/PlantTree.gif" alt="1" class="center" width="800"/>
     <img src="/img/PlantFlower.gif" alt="1" class="center" width="800"/>
